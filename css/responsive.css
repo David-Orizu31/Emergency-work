@@ -1,0 +1,12 @@
+@media (max-width: 780px) {
+    button.btn {
+        margin-bottom: 30px;
+    }
+
+    button.btn-keke {
+        margin-top: 0px !important;
+    }
+    button.btn-expecting {
+        margin-top: 0px !important;
+    }
+}

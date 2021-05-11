@@ -1,0 +1,154 @@
+.button-area {
+    margin: 20px;
+}
+
+.button {
+    width: 200px;
+    padding: 15px !important;
+    font-size: 20px !important;
+}
+
+.btn-recycle {
+    background-color: rgb(30, 150, 40) !important;
+    border: 2px solid gold !important;
+}
+
+.btn-recycle:hover {
+    color: rgb(30, 150, 40) !important;
+    background-color: white !important;
+}
+
+.purpose-icon {
+    padding-left: 10px;
+}
+
+.btn-handyman {
+    background-color: darkorange !important;
+    border: 2px solid yellowgreen !important;
+}
+
+.btn-handyman:hover {
+    color: darkorange !important;
+    background-color: white !important;
+    border: 2px solid darkorange !important;
+}
+
+.btn-keke {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    color: rgb(30, 150, 40) !important;
+    border: 2px solid gold !important;
+}
+
+.btn-keke:hover {
+    color: white !important;
+    background-color: rgb(30, 150, 40) !important;
+    border: 2px solid darkorange !important;
+}
+
+.btn-emergency {
+    background-color: rgb(225, 50, 0) !important;
+    border: 2px solid yellow !important;
+}
+
+.btn-emergency:hover {
+    opacity: 0.8 !important;
+}
+
+.btn-robbery {
+    background-color: orangered !important;
+    border: 2px solid rgb(30, 150, 40) !important;
+}
+
+.btn-robbery:hover {
+    color: rgb(30, 150, 40) !important;
+    background-color: white !important;
+}
+
+.btn-expecting {
+    margin-top: 80px;
+    color: darkorange !important;
+    border: 2px solid darkorange !important;
+}
+
+.btn-expecting:hover {
+    color: white !important;
+    background-color: darkorange !important;
+}
+
+.head-title {
+    margin: 0 auto;
+    color: darkorange;
+    font-size: 20px !important;
+}
+
+.btn-confirm {
+    width: 100%;
+    background-color: rgb(30, 150, 40) !important;
+    border: 2px solid gold !important;
+    border-radius: 0px !important;
+    font-size: 16px !important;
+}
+
+.btn-confirm:hover {
+    opacity: 0.7 !important;
+}
+
+.check-form {
+    margin-left: 20px;
+}
+
+.check-option {
+    font-size: 20px;
+}
+
+.expecting-form {
+    padding: 20px;
+}
+
+.contact-info {
+    color: rgb(30, 150, 40);
+    text-decoration: none;
+}
+
+.contact-info:hover {
+    color: gold;
+}
+
+.login-area {
+    border: 2px solid gold;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.login-area h2 {
+    color: rgb(30, 150, 40);
+}
+
+.login-area p {
+    font-size: 20px;
+}
+
+.label-item {
+    font-size: 20px;
+}
+
+.check-area {
+    font-size: 18px;
+}
+
+.btn-login {
+    background-color: rgb(30, 150, 40) !important;
+    font-size: 18px !important;
+}
+
+.btn-login:hover {
+    color: rgb(30, 150, 40) !important;
+    background-color: white !important;
+    border: 2px solid rgb(30, 150, 40) !important;
+}
+
+.question {
+    font-size: 15px !important;
+}
